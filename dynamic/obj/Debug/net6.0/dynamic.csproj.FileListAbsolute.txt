@@ -1,0 +1,5 @@
+C:\FullStackDevelopment\HomeWork_cSharp\dynamic\obj\Debug\net6.0\dynamic.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\HomeWork_cSharp\dynamic\obj\Debug\net6.0\dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\HomeWork_cSharp\dynamic\obj\Debug\net6.0\dynamic.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\HomeWork_cSharp\dynamic\obj\Debug\net6.0\dynamic.AssemblyInfo.cs
+C:\FullStackDevelopment\HomeWork_cSharp\dynamic\obj\Debug\net6.0\dynamic.csproj.CoreCompileInputs.cache

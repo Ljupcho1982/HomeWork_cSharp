@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\HomeWork_cSharp\Homework_SpeakingCSharp\bin\Debug\net6.0\Homework_SpeakingCSharp.exe
+C:\FullStackDevelopment\HomeWork_cSharp\Homework_SpeakingCSharp\bin\Debug\net6.0\Homework_SpeakingCSharp.deps.json
+C:\FullStackDevelopment\HomeWork_cSharp\Homework_SpeakingCSharp\bin\Debug\net6.0\Homework_SpeakingCSharp.runtimeconfig.json
+C:\FullStackDevelopment\HomeWork_cSharp\Homework_SpeakingCSharp\bin\Debug\net6.0\Homework_SpeakingCSharp.dll
+C:\FullStackDevelopment\HomeWork_cSharp\Homework_SpeakingCSharp\bin\Debug\net6.0\ref\Homework_SpeakingCSharp.dll
+C:\FullStackDevelopment\HomeWork_cSharp\Homework_SpeakingCSharp\bin\Debug\net6.0\Homework_SpeakingCSharp.pdb
+C:\FullStackDevelopment\HomeWork_cSharp\Homework_SpeakingCSharp\obj\Debug\net6.0\Homework_SpeakingCSharp.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\HomeWork_cSharp\Homework_SpeakingCSharp\obj\Debug\net6.0\Homework_SpeakingCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\HomeWork_cSharp\Homework_SpeakingCSharp\obj\Debug\net6.0\Homework_SpeakingCSharp.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\HomeWork_cSharp\Homework_SpeakingCSharp\obj\Debug\net6.0\Homework_SpeakingCSharp.AssemblyInfo.cs
+C:\FullStackDevelopment\HomeWork_cSharp\Homework_SpeakingCSharp\obj\Debug\net6.0\Homework_SpeakingCSharp.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\HomeWork_cSharp\Homework_SpeakingCSharp\obj\Debug\net6.0\Homework_SpeakingCSharp.dll
+C:\FullStackDevelopment\HomeWork_cSharp\Homework_SpeakingCSharp\obj\Debug\net6.0\ref\Homework_SpeakingCSharp.dll
+C:\FullStackDevelopment\HomeWork_cSharp\Homework_SpeakingCSharp\obj\Debug\net6.0\Homework_SpeakingCSharp.pdb
+C:\FullStackDevelopment\HomeWork_cSharp\Homework_SpeakingCSharp\obj\Debug\net6.0\Homework_SpeakingCSharp.genruntimeconfig.cache
