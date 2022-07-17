@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c61dc198-a694-4131-a47d-90fb5c9ef346": {
+      "ProjectGuid": "c61dc198-a694-4131-a47d-90fb5c9ef346",
+      "DisplayName": "Homework_VariablesAndExpressions_Exercise_02",
+      "ColorIndex": 0
+    },
+    "faf01675-c1bb-40cd-b73d-79dee15d0f0b": {
+      "ProjectGuid": "faf01675-c1bb-40cd-b73d-79dee15d0f0b",
+      "DisplayName": "Quizz_ilegal_name_variable",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
