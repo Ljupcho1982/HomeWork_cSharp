@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\HomeWork_cSharp\Quizz_ilegal_name_variable\bin\Debug\net6.0\Quizz_ilegal_name_variable.exe
+C:\FullStackDevelopment\HomeWork_cSharp\Quizz_ilegal_name_variable\bin\Debug\net6.0\Quizz_ilegal_name_variable.deps.json
+C:\FullStackDevelopment\HomeWork_cSharp\Quizz_ilegal_name_variable\bin\Debug\net6.0\Quizz_ilegal_name_variable.runtimeconfig.json
+C:\FullStackDevelopment\HomeWork_cSharp\Quizz_ilegal_name_variable\bin\Debug\net6.0\Quizz_ilegal_name_variable.dll
+C:\FullStackDevelopment\HomeWork_cSharp\Quizz_ilegal_name_variable\bin\Debug\net6.0\ref\Quizz_ilegal_name_variable.dll
+C:\FullStackDevelopment\HomeWork_cSharp\Quizz_ilegal_name_variable\bin\Debug\net6.0\Quizz_ilegal_name_variable.pdb
+C:\FullStackDevelopment\HomeWork_cSharp\Quizz_ilegal_name_variable\obj\Debug\net6.0\Quizz_ilegal_name_variable.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\HomeWork_cSharp\Quizz_ilegal_name_variable\obj\Debug\net6.0\Quizz_ilegal_name_variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\HomeWork_cSharp\Quizz_ilegal_name_variable\obj\Debug\net6.0\Quizz_ilegal_name_variable.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\HomeWork_cSharp\Quizz_ilegal_name_variable\obj\Debug\net6.0\Quizz_ilegal_name_variable.AssemblyInfo.cs
+C:\FullStackDevelopment\HomeWork_cSharp\Quizz_ilegal_name_variable\obj\Debug\net6.0\Quizz_ilegal_name_variable.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\HomeWork_cSharp\Quizz_ilegal_name_variable\obj\Debug\net6.0\Quizz_ilegal_name_variable.dll
+C:\FullStackDevelopment\HomeWork_cSharp\Quizz_ilegal_name_variable\obj\Debug\net6.0\ref\Quizz_ilegal_name_variable.dll
+C:\FullStackDevelopment\HomeWork_cSharp\Quizz_ilegal_name_variable\obj\Debug\net6.0\Quizz_ilegal_name_variable.pdb
+C:\FullStackDevelopment\HomeWork_cSharp\Quizz_ilegal_name_variable\obj\Debug\net6.0\Quizz_ilegal_name_variable.genruntimeconfig.cache
