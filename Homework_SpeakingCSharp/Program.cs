@@ -3,6 +3,9 @@ using System.Xml;
 
 
 
+
+
+
 //What statement can you type in a C# file to discover the compiler and language version?
 
 //#error version;
@@ -65,3 +68,16 @@ var xml = new XmlDocument();
 WriteLine("will then mean that user, instead of programmer, is left to discover the potential error");
 
 // How do you right-align a format string?
+
+WriteLine("Positiv intiger number in format string is right align and negativ is for left aligment");
+
+//What character separates arguments for a console application?
+
+//string[] ui = { @"/", @"\"", @"\\", @"\0", @"\a",@"\b",@"\f", @"\n", @"\r", @"\t", @"\v"};
+
+//foreach(var ui2 in ui)
+//{
+//  WriteLine(ui2);
+//}
+
+//Console.WriteLine(@"/", @"\"",@"\0", @"\a",@"\b",@"\f", @"\n", @"\r", @"\t", @"\v");

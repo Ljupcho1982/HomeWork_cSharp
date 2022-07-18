@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_SpeakingCSharp", "Homework_SpeakingCSharp.csproj", "{FB053792-3CDA-4643-AAD5-EB919DBFE749}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dynamic", "..\dynamic\dynamic.csproj", "{45921DFF-9771-4820-899A-D20CF8C034BD}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{FB053792-3CDA-4643-AAD5-EB919DBFE749}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB053792-3CDA-4643-AAD5-EB919DBFE749}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB053792-3CDA-4643-AAD5-EB919DBFE749}.Release|Any CPU.Build.0 = Release|Any CPU
-		{45921DFF-9771-4820-899A-D20CF8C034BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{45921DFF-9771-4820-899A-D20CF8C034BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{45921DFF-9771-4820-899A-D20CF8C034BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{45921DFF-9771-4820-899A-D20CF8C034BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
