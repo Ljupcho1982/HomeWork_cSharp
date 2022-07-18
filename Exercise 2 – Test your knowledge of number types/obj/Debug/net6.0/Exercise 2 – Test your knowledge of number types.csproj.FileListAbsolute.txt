@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 2 – Test your knowledge of number types\bin\Debug\net6.0\Exercise 2 – Test your knowledge of number types.exe
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 2 – Test your knowledge of number types\bin\Debug\net6.0\Exercise 2 – Test your knowledge of number types.deps.json
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 2 – Test your knowledge of number types\bin\Debug\net6.0\Exercise 2 – Test your knowledge of number types.runtimeconfig.json
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 2 – Test your knowledge of number types\bin\Debug\net6.0\Exercise 2 – Test your knowledge of number types.dll
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 2 – Test your knowledge of number types\bin\Debug\net6.0\ref\Exercise 2 – Test your knowledge of number types.dll
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 2 – Test your knowledge of number types\bin\Debug\net6.0\Exercise 2 – Test your knowledge of number types.pdb
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 2 – Test your knowledge of number types\obj\Debug\net6.0\Exercise 2 – Test your knowledge of number types.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 2 – Test your knowledge of number types\obj\Debug\net6.0\Exercise 2 – Test your knowledge of number types.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 2 – Test your knowledge of number types\obj\Debug\net6.0\Exercise 2 – Test your knowledge of number types.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 2 – Test your knowledge of number types\obj\Debug\net6.0\Exercise 2 – Test your knowledge of number types.AssemblyInfo.cs
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 2 – Test your knowledge of number types\obj\Debug\net6.0\Exercise 2 – Test your knowledge of number types.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 2 – Test your knowledge of number types\obj\Debug\net6.0\Exercise 2 – Test your knowledge of number types.dll
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 2 – Test your knowledge of number types\obj\Debug\net6.0\ref\Exercise 2 – Test your knowledge of number types.dll
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 2 – Test your knowledge of number types\obj\Debug\net6.0\Exercise 2 – Test your knowledge of number types.pdb
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 2 – Test your knowledge of number types\obj\Debug\net6.0\Exercise 2 – Test your knowledge of number types.genruntimeconfig.cache

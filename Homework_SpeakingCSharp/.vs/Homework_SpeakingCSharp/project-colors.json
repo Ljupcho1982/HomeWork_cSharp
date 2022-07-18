@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fb053792-3cda-4643-aad5-eb919dbfe749": {
+      "ProjectGuid": "fb053792-3cda-4643-aad5-eb919dbfe749",
+      "DisplayName": "Homework_SpeakingCSharp",
+      "ColorIndex": 0
+    },
+    "45921dff-9771-4820-899a-d20cf8c034bd": {
+      "ProjectGuid": "45921dff-9771-4820-899a-d20cf8c034bd",
+      "DisplayName": "dynamic",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
