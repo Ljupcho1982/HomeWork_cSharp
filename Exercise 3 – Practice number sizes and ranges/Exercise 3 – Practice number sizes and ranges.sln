@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 3 – Practice number sizes and ranges", "Exercise 3 – Practice number sizes and ranges.csproj", "{70447748-24A8-427B-9CD5-3E78281C05BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70447748-24A8-427B-9CD5-3E78281C05BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70447748-24A8-427B-9CD5-3E78281C05BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70447748-24A8-427B-9CD5-3E78281C05BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70447748-24A8-427B-9CD5-3E78281C05BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDC66A3E-8EBA-45C0-8593-799BD9028E63}
+	EndGlobalSection
+EndGlobal

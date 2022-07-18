@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 3 – Practice number sizes and ranges\obj\Debug\net6.0\Exercise 3 – Practice number sizes and ranges.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 3 – Practice number sizes and ranges\obj\Debug\net6.0\Exercise 3 – Practice number sizes and ranges.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 3 – Practice number sizes and ranges\obj\Debug\net6.0\Exercise 3 – Practice number sizes and ranges.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 3 – Practice number sizes and ranges\obj\Debug\net6.0\Exercise 3 – Practice number sizes and ranges.AssemblyInfo.cs
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 3 – Practice number sizes and ranges\obj\Debug\net6.0\Exercise 3 – Practice number sizes and ranges.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 3 – Practice number sizes and ranges\bin\Debug\net6.0\Exercise 3 – Practice number sizes and ranges.exe
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 3 – Practice number sizes and ranges\bin\Debug\net6.0\Exercise 3 – Practice number sizes and ranges.deps.json
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 3 – Practice number sizes and ranges\bin\Debug\net6.0\Exercise 3 – Practice number sizes and ranges.runtimeconfig.json
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 3 – Practice number sizes and ranges\bin\Debug\net6.0\Exercise 3 – Practice number sizes and ranges.dll
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 3 – Practice number sizes and ranges\bin\Debug\net6.0\ref\Exercise 3 – Practice number sizes and ranges.dll
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 3 – Practice number sizes and ranges\bin\Debug\net6.0\Exercise 3 – Practice number sizes and ranges.pdb
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 3 – Practice number sizes and ranges\obj\Debug\net6.0\Exercise 3 – Practice number sizes and ranges.dll
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 3 – Practice number sizes and ranges\obj\Debug\net6.0\ref\Exercise 3 – Practice number sizes and ranges.dll
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 3 – Practice number sizes and ranges\obj\Debug\net6.0\Exercise 3 – Practice number sizes and ranges.pdb
+C:\FullStackDevelopment\HomeWork_cSharp\Exercise 3 – Practice number sizes and ranges\obj\Debug\net6.0\Exercise 3 – Practice number sizes and ranges.genruntimeconfig.cache
